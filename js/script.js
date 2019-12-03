@@ -1,12 +1,6 @@
 ready(function(){
   
 
-// let mobMenu = document.querySelector('.filters');
-// mobMenu.onclick = function (){
-//   mobMenu.classList.toggle('filters--open');
-// }
-
-
 const filter = document.querySelector('.filters');
 const filterToggle = document.querySelector('.filters__trigger')
 filterToggle.addEventListener( 'click', function(e){
