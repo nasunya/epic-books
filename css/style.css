@@ -1932,6 +1932,7 @@ a.pagination__item:hover, a.pagination__item:focus {
         .filters__view-thumb-btn svg, .filters__view-list-btn svg {
           display: inline-block;
           vertical-align: -0.2em; }
+          
     .product {
       display: grid;
       -webkit-box-align: start;
